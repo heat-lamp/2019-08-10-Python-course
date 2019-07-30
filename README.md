@@ -2,7 +2,11 @@
 
 # Python programming crash course
 
-The 6 hour crash course is one of the best ways to get started with Python programming.
+The 12 hour crash course run over two weekends is one of the best ways to get started with Python programming. 
+
+It is hands on and interactive so you will actually know how to program rather than hearing a lot of theory about what programming is.
+
+
 
 
 [https://generalassemb.ly/education/python-programming-crash-course/melbourne/79206](link to General Assembly)
