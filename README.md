@@ -12,6 +12,17 @@ It is hands on and interactive so you will actually know how to program rather t
 - Creating Web Apps
 - Data Analysis
 
+# Topics
+
+- ### Jupyter Notebook as a Data Science environment
+![](./images/jupyterpreview.png)
+
+- ### Natural Language Processing of Twitter Data
+
+![](./images/twitter-trump-profanity.jpg)
+
+
+
 
 
 
