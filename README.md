@@ -8,7 +8,8 @@ There's been a lot of talk about automation and the effect it's going to have on
 
 [World economic forum forecast](https://www.washingtonpost.com/technology/2018/09/18/machines-will-create-million-more-jobs-than-they-displace-by-world-economic-forum-says/?noredirect=on&utm_term=.f87b5c28833d)
 
->In the next four years, more than 75 million jobs may be lost as companies shift to more automation, according to new estimates by the World Economic Forum. But the projections have an upside: 133 million new jobs will emerge during that period, as businesses develop a new division of labor between people and machines.
+>In the next four years, more than 75 million jobs may be lost as companies shift to more automation, according to new estimates by the World Economic Forum. 
+>But the projections have an upside: 133 million new jobs will emerge during that period, as businesses develop a new division of labor between people and machines.
 
 Automation will create many more jobs than it replaces, but only if you have the right skills - Programming Skills!
 
@@ -23,7 +24,7 @@ Saturday 17th August 10am - 4pm
 
 
 
-The 12 hour crash course run over two weekends is one of the best ways to get started with Python programming. 
+This 12 hour crash course run over two weekends is one of the best ways to get started with Python programming. 
 
 It is hands on and interactive so you will actually learn how to program rather than hearing a lot of theory about what programming is.
 
